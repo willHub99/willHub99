@@ -3,16 +3,16 @@
 
 
 ## 🚀 Sobre mim
-Estudante de Engenharia de Computação UTFPR-TD.
-
+Recém formado em Engenharia de Computação na UTFPR-TD.
 
 
 ## 👨‍💻 Informações
 
-🧠 Estou aprendendo HTML, CSS, JavaScript, Git e GitHub
+🧠 Estou aprendendo ReactJS e Flutter no momento
 
 📫 Como entrar em contato comigo:
 - Email: willianhuber99@gmail.com
+- Telefone/WhatsApp: (45) 99926-4637
 
 
 ## 🔗 Links
